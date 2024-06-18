@@ -1,5 +1,3 @@
-// script.js
-
 document.addEventListener("DOMContentLoaded", function () {
     // Smooth scroll for navigation links
     const navLinks = document.querySelectorAll('header nav a');

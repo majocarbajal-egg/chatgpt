@@ -30,7 +30,7 @@ header nav a:hover {
 }
 
 .hero {
-    background-image: url('restaurant.jpg');
+    background-image: url('logo.jpg');
     background-size: cover;
     background-position: center;
     height: 80vh;
